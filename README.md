@@ -8,5 +8,6 @@ This repo contains my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0626-exchange-seats](https://github.com/elatedpk/leetcode/tree/master/0626-exchange-seats) |
+| [1667-fix-names-in-a-table](https://github.com/elatedpk/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/elatedpk/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
